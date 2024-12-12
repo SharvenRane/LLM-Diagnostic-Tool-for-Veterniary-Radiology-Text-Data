@@ -1,0 +1,9 @@
+openai==0.28.0
+langchain-google-genai==1.0.6
+streamlit
+python-dotenv
+tiktoken
+pandas
+openpyxl
+python-dotenv
+google-generativeai
